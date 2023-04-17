@@ -30,7 +30,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center|top"
             android:layout_marginTop="10dp"
-            android:text="30"
+            android:text="100"
             android:textColor="#5E559F"
             android:textSize="50dp" />
 
